@@ -1,0 +1,11 @@
+/* .active {
+  background-color: #5edd7a;
+  font-family: "OpenSans", sans-serif;
+} */
+
+.navbar-nav .nav-item .nav-link.active {
+  background-color: #61d47a; /* Change to desired background color */
+  text-decoration: underline; /* Add underline to active link */
+  border: 1px solid #ccc; /* Add border to active link */
+  border-radius: 15px;
+}
